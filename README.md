@@ -1,0 +1,1 @@
+@import "https://github.com/Love-in-idleness/Ithink/blob/main/Ithink.pdf"
